@@ -13,7 +13,7 @@ def main():
         "tests": [60, 55, 70, 80]
     }
     shivam = {
-        "name": [90, 90, 90, 90],
+        "name": "Shivam",
         "homework": [90, 90, 70, 80],
         "quizzes": [80, 80, 90, 60],
         "tests": [80, 80, 90, 100]
